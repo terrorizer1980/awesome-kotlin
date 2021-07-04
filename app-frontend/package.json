@@ -5,7 +5,7 @@
   "main": "app/src/main.tsx",
   "dependencies": {
     "copy-to-clipboard": "^3.3.1",
-    "core-js": "^3.6.5",
+    "core-js": "^3.14.0",
     "normalize.css": "^8.0.1",
     "query-string": "Heapy/query-string",
     "react": "^16.13.1",
