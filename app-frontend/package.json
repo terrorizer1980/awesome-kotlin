@@ -10,8 +10,8 @@
     "query-string": "Heapy/query-string",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
-    "react-router": "^5.2.0",
-    "react-router-dom": "^5.2.0",
+    "react-router": "^6.0.0",
+    "react-router-dom": "^6.0.0",
     "regenerator-runtime": "^0.13.7",
     "typestyle": "^2.1.0"
   },
